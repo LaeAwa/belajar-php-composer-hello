@@ -1,0 +1,19 @@
+{
+    "name": "laeawa/bephp-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Laeawa\\Belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LaeAwa",
+            "email": "fatwaabdullah48@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    }
+}
